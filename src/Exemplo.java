@@ -1,9 +1,14 @@
 public class Exemplo {
+	public static void sayHelloManyTimes(int times) {
+		for (int i = 0; i < times; i++) {
+			sayHello();
+		}
+	}
 	public static void sayHello() {
-		System.out.println("Olá, Mundo Pandêmico 1");
+		System.out.println("Hello, Pandemic World!");
 	}
 	
 	public static void main(String[] args) {
-		sayHello();
+		sayHelloManyTimes(5);
 	}
 }
