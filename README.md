@@ -3,9 +3,8 @@
 Programa que diz Hello!
 
 ## Alunos
-* Angela
-* Gustavo
-* Laísa
-
+* Angela Aguiar 
+* Gustavo K. 
+* LaÃ­sa L.
 * v1.0 - A primeira versão
 * v1.1 - Versão entregue na data 02/07/2021
